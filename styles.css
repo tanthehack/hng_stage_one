@@ -114,6 +114,14 @@ body {
     text-align: center;
 }
 
+.card-content .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
 .card-content .text p {
     font-weight: 600;
     padding-top: 10px;
