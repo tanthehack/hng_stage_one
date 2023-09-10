@@ -129,12 +129,6 @@ body {
     margin-top: 60px;
 }
 
-.socials a {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
 .socials p {
     font-weight: 600;
     margin-bottom: 10px;
@@ -151,6 +145,8 @@ body {
 
     display: flex;
     justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 
 .socials-content svg {
