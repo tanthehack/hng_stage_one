@@ -1,5 +1,5 @@
 ## FRONT-END TRACK
-## STAGE ONE TASK
+### STAGE ONE TASK
 Task: Frontend Page Creation with Specific Elements
 Objective: Develop and host a web page using HTML, CSS and JS that showcases specific personal and real-time data attributes. Each required element should have a specified data-testid attribute for easy identification and testing.
 
@@ -36,3 +36,9 @@ Ensure you've:
 - Double-checked all requirements and acceptance criteria.
 - Provide the hosted page's URL in the submission form.
 - Before finalising your submission, thoroughly review your work to ensure accuracy, functionality, and adherence to the specified guidelines.
+
+### Solution
+
+📷 Submission Screenshot:
+
+![Submission Screenshot](./assets/task_ss.png)
